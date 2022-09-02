@@ -1,1 +1,1 @@
-teste!
+This is a repository for several Exploratory Data Analysis tasks and ML projects that I have been developing in the last year. Some of them were developed while doing online courses, others under the mentorship of companies, and others by my own. Disclaimers will be pointed out for each case.
